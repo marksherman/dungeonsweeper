@@ -1,0 +1,23 @@
+{
+  "name": "dungeonsweeper",
+  "version": "0.1.0",
+  "description": "Multi-player mindsweeper clone",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "p5js",
+    "p5.js",
+    "peer.js",
+    "peerjs",
+    "minesweeper",
+    "game"
+  ],
+  "author": "Mark Sherman <profmarksherman@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-plugin-p5js": "^0.2.0"
+  }
+}
