@@ -17,7 +17,7 @@
   "author": "Mark Sherman <profmarksherman@gmail.com>",
   "license": "GPL-2.0",
   "devDependencies": {
-    "eslint": "^7.23.0",
-    "eslint-plugin-p5js": "^0.2.0"
+    "eslint": "^8.34.0",
+    "eslint-plugin-p5js": "^1.0.0"
   }
 }
