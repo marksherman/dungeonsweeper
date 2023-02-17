@@ -15,7 +15,7 @@
     "game"
   ],
   "author": "Mark Sherman <profmarksherman@gmail.com>",
-  "license": "MIT",
+  "license": "GPL-2.0",
   "devDependencies": {
     "eslint": "^7.23.0",
     "eslint-plugin-p5js": "^0.2.0"
